@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/oi-no-susami",
  "yomi": "おいのすさみ",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "連歌論書",
+  "era": "室町中期",
+  "author": "宗祇",
+  "desc": "六十歳に近づいた宗祇が、老いの慰めに連歌の昔と今のありさまを記した連歌論書。連歌の移り変わりを述べ、先人の句を挙げて付合の心得を説く。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -206,6 +211,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:23:03+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
